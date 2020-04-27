@@ -1,0 +1,9 @@
+person:
+  id: 11
+  name: lucy
+  hobby: [Coding, 看书, 旅游]
+  family: [Son, 妻子]
+  hash-map: {k1 : vv1, k2 : vv2}
+  pet:
+    type: 牧羊犬
+    name: 泡泡
